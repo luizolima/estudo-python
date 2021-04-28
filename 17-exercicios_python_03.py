@@ -38,4 +38,18 @@ while x <= 100000: #  Usando While
     print(x)
     x = x + 1000
 """
+# Exercicio 05
+"""
+qtd = int(input('Digite a quantidade de quantos primeiros números você deseja: '))
+num = 0
+soma = 0
+
+for i in range(1, qtd + 1):
+    num += 2
+    soma += num
+    print(num, end=' ')
+print('')
+print(f'A soma dos primeiros {qtd} números pares é: {soma}')
+"""
+
 
