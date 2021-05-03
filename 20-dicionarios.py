@@ -49,8 +49,6 @@ print(paises['ru'])
 print(paises.get('br'))
 print(paises.get('ru'))
 
-OBS"O tipo None é sempre
-
 pais = paises.get('py',)
 
 # Caso o get não encontre o objeto com a chave informada será retornado o valor None e não será gerado KeyE
