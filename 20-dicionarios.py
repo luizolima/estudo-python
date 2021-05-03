@@ -51,7 +51,7 @@ print(paises.get('ru'))
 
 pais = paises.get('py',)
 
-# Caso o get não encontre o objeto com a chave informada será retornado o valor None e não será gerado KeyE
+# Caso o get não encontre o objeto com a chave informada será retornado o valor None e não será gerado KeyError
 
 if pais:
     print(f'Encontrei o país {pais}')
@@ -72,10 +72,10 @@ print('Estados Unidos' in paises)
 if 'ru' in paises:
     russia = paises['ru']
 
-    paises = {'br': 'Brasil', 'eua': 'Estados Unidos', 'py': 'Paraguai'}
+paises = {'br': 'Brasil', 'eua': 'Estados Unidos', 'py': 'Paraguai'}
 
-# Podemos utilizar qualquer tipo de dado (int, float, string, boolean) inclusive lista, tupla diciona'rio, como chaves
-# de dicionarios.
+# Podemos utilizar qualquer tipo de dado (int, float, string, boolean) inclusive lista, tupla dicionário, como chaves
+de dicionarios.
 
 # Tuplas por exemplo são bastate interessantes de serem utilizadas como chave de dicionários, pois as mesmas são
 # imutáveis
@@ -86,7 +86,6 @@ localidade = {
 }
 print(localidade)
 print(type(localidade))
-
 
 # Adicionar elementos em um dicionário
 
@@ -159,7 +158,6 @@ Carrinho de compras
         - preço
 
 
-
 # 1 - Poderiamos utilizar uma lista para isso? Sim
 
 carrinho = []
@@ -197,17 +195,17 @@ carrinho.append(produto2)
 
 print(carrinho)
 
-# Desta forma, facilmente adicionamos ou removemos facilmente produtos no carrinho e em cada produto
+# Desta forma, facilmente adicionamos ou removemos produtos no carrinho e em cada produto
 # podemos ter a certeza sobre cada informação.
 
-#Métodos de dicionários:
+# Métodos de dicionários:
 
 d = dict(a=1, b=2, c=3)
 print(d)
 print(type(d))
 
 
-# Limpar o dicionário
+# Limpar o dicionário (Zerar dados)
 
 d.clear()
 print(d)
