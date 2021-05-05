@@ -82,3 +82,27 @@ valor_min = min(vetor)
 
 print(f'O valor máximo é {valor_max} e o valor mínimo é {valor_min}')
 """
+# Exercicio 7
+"""
+vetor = []
+
+while len(vetor) < 4:
+    elemento = int(input(f'Digite o valor do elemento na posição {len(vetor)}: '))
+    vetor.append(elemento)
+print(vetor)
+
+print(f' O valor máximo é {max(vetor)} e se encontra na posição {vetor.index(max(vetor))}.')
+"""
+# Exercicio 8
+"""
+vetor = []
+
+for i in range(0, 6):
+    elemento = int(input(f'Digite o valor do elemento na posição {i}: '))
+    vetor.append(elemento)
+
+print(f'O Vetor é: {vetor}, ele invertido fica: {vetor[::-1]}')
+
+"""
+
+
