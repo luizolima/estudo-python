@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="092c6871-a27e-43e6-a1bc-a6fe246769f1" name="Default Changelist" comment="Aula sobre *args do Python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/37-exercicios_python_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/37-exercicios_python_05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/29-exercicios_python_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/29-exercicios_python_04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +65,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.37-exercicios_python_05">
-    <configuration name="33-funcoes_com_parametro_padrao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.29-exercicios_python_04">
+    <configuration name="29-exercicios_python_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudo_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Pichau\PycharmProjects\estudo_python\33-funcoes_com_parametro_padrao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29-exercicios_python_04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.29-exercicios_python_04" />
         <item itemvalue="Python.37-exercicios_python_05" />
         <item itemvalue="Python.36-kwargs" />
         <item itemvalue="Python.35-args" />
         <item itemvalue="Python.34-docstrings" />
-        <item itemvalue="Python.33-funcoes_com_parametro_padrao" />
       </list>
     </recent_temporary>
   </component>

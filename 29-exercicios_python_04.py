@@ -104,5 +104,44 @@ for i in range(0, 6):
 print(f'O Vetor é: {vetor}, ele invertido fica: {vetor[::-1]}')
 
 """
+# Exercicio 9
+"""
+vetor = []
 
+while len(vetor) < 6:
+    elemento = int(input(f'Digite o valor do elemento na posição {len(vetor)}: '))
+    if elemento % 2 == 0:
+        vetor.append(elemento)
+print(vetor)
+print(vetor[::-1])
+"""
+# Exercicio 10
+"""
+lista = []
+for aluno in range(1, 16):
+    nota = float(input(f'Digite a nota do aluno {aluno}/15: '))
+    lista.append(nota)
+print(lista)
+print(aluno)
+print(f'A média de notas dos alunos é: {sum(lista)/aluno}')
+
+"""
+# Exercicio 11
+"""
+lista = []
+qtd_num_negativo = 0
+soma_num_positivo = 0
+
+while len(lista) < 10:
+    elemento = int(input(f'Digite o valor do elemento na posição {len(lista)}: '))
+    if elemento < 0:
+        lista.append(elemento)
+        qtd_num_negativo += 1
+    else:
+        soma_num_positivo += elemento
+        lista.append(elemento)
+print(lista)
+print(f'Em uma lista de {len(lista)} elementos, temos {qtd_num_negativo} números negativos. A soma dos números '
+      f'positivos é: {soma_num_positivo}')
+"""
 
