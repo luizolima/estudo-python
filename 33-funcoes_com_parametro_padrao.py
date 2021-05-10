@@ -162,4 +162,4 @@ print(fora())
 print(fora())
 print(fora())
 
-print(dentro())  # NameError
+# print(dentro())  # NameError
