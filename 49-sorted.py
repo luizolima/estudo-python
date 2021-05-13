@@ -49,12 +49,7 @@ print(sorted(usuarios, key=lambda usuario: len(usuario["tweets"])))
 
 # Último exemplo
 
-musicas = [
-    {"titulo": "Thunderstruck", "tocou": 3},
-    {"titulo": "Dead Skin Mask", "tocou": 2},
-    {"titulo": "Back in Black", "tocou": 4},
-    {"titulo": "Too old to rock'n'roll, too young to die", "tocou": 32}
-]
+
 
 # Ordenada da menos para a mais tocada
 print(sorted(musicas, key=lambda musica: musica["tocou"]))
