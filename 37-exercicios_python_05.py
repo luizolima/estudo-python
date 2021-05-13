@@ -122,6 +122,16 @@ print(nota_final(25, 50, 100, 'P'))
 """
 # Exercicio 12
 
+
+def sum_digits(n):
+    s = 0
+    while n:
+        s += n % 10
+        n //= 10
+    return s
+
+print(sum_digits(253))
+
 # Exercicio 13
 """
 
@@ -146,6 +156,17 @@ print(calculo(50, 50, ''))
 
 """
 # Exercicio 14
+
+# Exercicio 16
+"""
+def pula_linha(qtd):
+    print('=-' * qtd)
+
+
+pula_linha(30)
+"""
+
+
 
 
 # Exercicio 22

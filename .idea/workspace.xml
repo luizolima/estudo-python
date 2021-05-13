@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092c6871-a27e-43e6-a1bc-a6fe246769f1" name="Default Changelist" comment="Aula sobre *args do Python">
-      <change afterPath="$PROJECT_DIR$/50-min_e_max.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/49-sorted.py" beforeDir="false" afterPath="$PROJECT_DIR$/49-sorted.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/37-exercicios_python_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/37-exercicios_python_05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +66,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.50-min_e_max">
-    <configuration name="46-Reduce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.37-exercicios_python_05">
+    <configuration name="37-exercicios_python_05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudo_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46-Reduce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/37-exercicios_python_05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.37-exercicios_python_05" />
         <item itemvalue="Python.50-min_e_max" />
         <item itemvalue="Python.49-sorted" />
         <item itemvalue="Python.48-generators" />
         <item itemvalue="Python.47-any_all" />
-        <item itemvalue="Python.46-Reduce" />
       </list>
     </recent_temporary>
   </component>
