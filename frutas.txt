@@ -1,3 +1,7 @@
 morango
 pessego
 melancia
+framboesa
+laranja
+tomate
+
