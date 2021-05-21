@@ -1,0 +1,3 @@
+Novos dados em um arquivo é muito fácil. 
+Outros colocar quantas linhas quisermos. 
+Mais é a última linha. 
