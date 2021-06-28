@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="092c6871-a27e-43e6-a1bc-a6fe246769f1" name="Default Changelist" comment="Aula sobre *args do Python">
-      <change afterPath="$PROJECT_DIR$/76-geradores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/luiz_otavio.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/77-teste_memoria.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/estudo_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/estudo_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,9 +49,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2021.1/python_stubs/-1860759584/builtins.py" root0="SKIP_INSPECTION" />
-  </component>
   <component name="ProjectId" id="1rY0kjfOfJpUm0Zvxzzuhhd1ACm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -69,7 +69,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.76-geradores">
+  <component name="RunManager" selected="Python.77-teste_memoria">
     <configuration name="75-iterador_customizado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudo_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="85-classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="77-teste_memoria" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudo_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/85-classes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/77-teste_memoria.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.77-teste_memoria" />
         <item itemvalue="Python.76-geradores" />
         <item itemvalue="Python.75-iterador_customizado" />
         <item itemvalue="Python.87-metodos" />
         <item itemvalue="Python.86-atributos" />
-        <item itemvalue="Python.85-classes" />
       </list>
     </recent_temporary>
   </component>
@@ -240,6 +240,28 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aula sobre *args do Python" />
     <option name="LAST_COMMIT_MESSAGE" value="Aula sobre *args do Python" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1897" height="284" key="GridCell.Tab.0.bottom" timestamp="1624847944499">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="284" key="GridCell.Tab.0.bottom/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624847944499" />
+    <state width="1897" height="284" key="GridCell.Tab.0.center" timestamp="1624847944499">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="284" key="GridCell.Tab.0.center/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624847944499" />
+    <state width="1897" height="284" key="GridCell.Tab.0.left" timestamp="1624847944499">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="284" key="GridCell.Tab.0.left/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624847944499" />
+    <state width="1897" height="284" key="GridCell.Tab.0.right" timestamp="1624847944499">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="284" key="GridCell.Tab.0.right/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624847944499" />
+    <state x="2369" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1624847494865">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2369" y="175" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1624847494865" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
